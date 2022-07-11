@@ -12,10 +12,13 @@
     "forceConsistentCasingInFileNames": true,
     "useDefineForClassFields": true,
     "sourceMap": true,
-    "baseUrl": ".",
+    "outDir": "docs",
+
+    "baseUrl": "/maps-app/",
     "types": [
       "webpack-env"
     ],
+
     "paths": {
       "@/*": [
         "src/*"
