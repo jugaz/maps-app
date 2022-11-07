@@ -5,7 +5,7 @@ import store from './store'
 
 import mapboxgl from 'mapbox-gl'; // or "const mapboxgl = require('mapbox-gl');"
 
-mapboxgl.accessToken = 'pk.eyJ1IjoianVnYXoiLCJhIjoiY2xhNnlqeHd6MWtlZjN3bW42OGdsODJhaCJ9.70uyrUiypL35uceDOKD4aQ';
+mapboxgl.accessToken = 'pk.eyJ1IjoianVnYXoiLCJhIjoiY2xhNnlubDJ0MXBubTNwbWg0d3hxZGg1dSJ9.BS2clT_hzrBd4Z1706gDUw';
 
 if( !navigator.geolocation ) {
   alert('Tu navegador no soporta el Geolocation')

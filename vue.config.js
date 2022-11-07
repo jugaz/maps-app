@@ -1,5 +1,5 @@
 module.exports = {
-  transpileDependencies: true,
+  // transpileDependencies: true,
   publicPath: '/maps-app/',
   outputDir: 'docs'
 }
